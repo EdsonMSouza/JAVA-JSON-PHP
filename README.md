@@ -1,2 +1,2 @@
 # JAVA-JSON-PHP
-Estes projetos exemplificam como realizar a geração de um JSON (RestFull) para ser consumido em qualquer aplicação, sendo que foi utilizado o PHP demonstrar a utilização deste recuroso.
+These projects exemplify how to generate a JSON (RestFull) to be consumed in any application, and PHP was used to demonstrate the use of this feature.
